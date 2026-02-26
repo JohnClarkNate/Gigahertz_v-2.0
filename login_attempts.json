@@ -15,10 +15,6 @@
         "locked_until": 1764704033,
         "locked_manually": true
     },
-    "jiji": {
-        "attempts": 3,
-        "last_attempt": 1768675382
-    },
     "admn": {
         "attempts": 1,
         "last_attempt": 1764920277
@@ -26,5 +22,9 @@
     "ruru": {
         "attempts": 2,
         "last_attempt": 1771599511
+    },
+    "admin": {
+        "attempts": 1,
+        "last_attempt": 1772103649
     }
 }

@@ -1,0 +1,116 @@
+[25-Nov-2025 13:14:33 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:19:26 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:33:25 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:36:10 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:42:41 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:46:22 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 13:46:34 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:08:46 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:10:32 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:10:32 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:22:04 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 65
+[25-Nov-2025 21:22:04 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 65
+[25-Nov-2025 21:22:48 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 65
+[25-Nov-2025 21:22:48 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 65
+[25-Nov-2025 21:23:48 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 65
+[25-Nov-2025 21:32:51 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:32:51 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 21:35:08 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 63
+[25-Nov-2025 22:49:54 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 64
+[25-Nov-2025 23:57:27 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 64
+[25-Nov-2025 23:57:49 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 64
+[25-Nov-2025 23:59:54 Europe/Berlin] PHP Warning:  Undefined array key "qty" in C:\xampp\htdocs\ruru\ruru\pos_checkout.php on line 64
+[26-Nov-2025 00:01:51 Europe/Berlin] Sale failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'receipt_id' in 'field list'
+[26-Nov-2025 00:02:48 Europe/Berlin] Cannot send stock alert for item Chicken (SKU: 11000). No vendor email found or empty.
+[26-Nov-2025 02:06:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:174
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(174): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 174
+[27-Nov-2025 02:08:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:174
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(174): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 174
+[27-Nov-2025 03:36:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:174
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(174): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 174
+[27-Nov-2025 06:53:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:204
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(204): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 204
+[27-Nov-2025 06:56:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:208
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(208): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 208
+[27-Nov-2025 06:57:14 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:174
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(174): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 174
+[27-Nov-2025 06:58:11 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\ruru\pos_checkout.php:204
+Stack trace:
+#0 C:\xampp\htdocs\ruru\pos_checkout.php(204): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\ruru\pos_checkout.php on line 204
+[27-Nov-2025 07:01:20 Europe/Berlin] Sale failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'supplier_id_external' in 'where clause'
+[27-Nov-2025 14:05:49 Europe/Berlin] Sale failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'supplier_id_external' in 'where clause'
+[27-Nov-2025 14:11:06 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 14:11:10 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 14:11:14 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 14:11:17 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 14:11:20 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 15:40:32 Europe/Berlin] Stock alert email sent successfully to evangelistalirio30@gmail.com for item Cocoa (SKU: 3)
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 15:40:32 Europe/Berlin] Sale failed: Insufficient stock for item Cocoa. Available: 0, Requested: 2
+[27-Nov-2025 16:27:59 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:30:07 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:36:25 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:37:49 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 16:37:53 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:37:53 Europe/Berlin] Cannot send stock alert for item Donut (SKU: 678). No vendor email found or empty.
+[27-Nov-2025 16:39:29 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:39:33 Europe/Berlin] Stock alert email sent successfully to ualat.johndanie.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:41:18 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:41:22 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:43:15 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 16:43:19 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 16:43:19 Europe/Berlin] Cannot send stock alert for item Donut (SKU: 678). No vendor email found or empty.
+[27-Nov-2025 17:45:13 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Choco Choco (SKU: 4)
+[27-Nov-2025 17:45:13 Europe/Berlin] Cannot send stock alert for item Donut (SKU: 678). No vendor email found or empty.
+[27-Nov-2025 17:45:17 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item Chicken (SKU: 11000)
+[27-Nov-2025 17:47:12 Europe/Berlin] Stock alert email sent successfully to casangcapanjosef13@gmail.com for item Potato (SKU: 5)
+[28-Nov-2025 02:52:59 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Sugar (SKU: 6)
+[28-Nov-2025 02:53:02 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Choco Choco (SKU: 4)
+[28-Nov-2025 02:53:02 Europe/Berlin] Sale failed: Insufficient stock for item Choco Choco. Available: 0, Requested: 1
+[28-Nov-2025 02:54:09 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Sugar (SKU: 6)
+[28-Nov-2025 02:54:09 Europe/Berlin] Sale failed: Insufficient stock for item Sugar. Available: 28, Requested: 70
+[28-Nov-2025 03:01:12 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item Sugar (SKU: 6)
+[28-Nov-2025 03:12:37 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item(s): Sugar, Choco Choco (total: 2)
+[28-Nov-2025 03:28:57 Europe/Berlin] Stock alert email sent successfully to johndanielualat@gmail.com for item(s): Bread (total: 1)
+[28-Nov-2025 03:29:00 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item(s): Sugar (total: 1)
+[28-Nov-2025 03:53:30 Europe/Berlin] Stock alert email sent successfully to johndanielualat@gmail.com for item(s): Salt (total: 1)
+[28-Nov-2025 03:53:34 Europe/Berlin] Stock alert email sent successfully to ualat.johndaniel.katapang@gmail.com for item(s): Sugar (total: 1)
+[01-Dec-2025 00:12:55 Europe/Berlin] Stock alert email sent successfully to johndanielualat@gmail.com for item(s): Salt (total: 1)
+[01-Dec-2025 03:14:41 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item(s): Chicken (total: 1)
+[01-Dec-2025 03:15:12 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item(s): Chicken (total: 1)
+[02-Dec-2025 00:47:09 Europe/Berlin] Stock alert email sent successfully to idanan.romnick.vendiola31@gmail.com for item(s): Chicken (total: 1)
+[02-Dec-2025 02:09:15 Europe/Berlin] Stock alert email sent successfully to johndanielualat@gmail.com for item(s): Bread (total: 1)
+[02-Dec-2025 22:47:16 Europe/Berlin] Stock alert email sent successfully to johndanielualat@gmail.com for item(s): Bread (total: 1)
+[05-Dec-2025 09:59:06 Europe/Berlin] Stock alert email sent successfully to jaztinmathewbiazon@gmail.com for item(s): Monitor (total: 1)
+[19-Jan-2026 16:36:42 Europe/Berlin] Stock alert email sent successfully to evangelistalirio30@gmail.com for item(s): Kodak (total: 1)
+[19-Jan-2026 16:38:52 Europe/Berlin] Stock alert email sent successfully to evangelistalirio30@gmail.com for item(s): Kodak (total: 1)
+[25-Feb-2026 14:59:37 Europe/Berlin] Stock alert email sent successfully to evangelistalirio30@gmail.com for item(s): Keyboard (total: 1)
